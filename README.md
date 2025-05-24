@@ -1,4 +1,6 @@
 # ⏰ Digital Clock - Day 2
+## 📸 Preview
+![Digital Clock](thumbnail.png)
 
 This is Day 2 of my **100 Days 100 JavaScript Projects** challenge.  
 In this project, I created a live **Digital Clock** using HTML, CSS, and JavaScript.
