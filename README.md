@@ -16,6 +16,9 @@ In this project, I created a live **Digital Clock** using HTML, CSS, and JavaScr
 ## 📽️ Demo
 Watch the video here: [YouTube Video Link](https://youtu.be/Meot4viR8a4?si=UoKorOBpXf1rl8TF)
 
+## 🔗 Connect With Me
+- LinkedIn: [Sneka Chandrasekaran](https://linkedin.com/in/sneka-chandrasekaran)
+
 ## 📅 Comming Next
 Day 3 - Tip Calculator⏰
 
