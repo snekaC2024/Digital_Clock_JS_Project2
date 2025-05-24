@@ -20,7 +20,7 @@ Watch the video here: [YouTube Video Link](https://youtu.be/Meot4viR8a4?si=UoKor
 - LinkedIn: [Sneka Chandrasekaran](https://linkedin.com/in/sneka-chandrasekaran)
 
 ## 📅 Comming Next
-Day 3 - Tip Calculator⏰
+Day 3 - Tip Calculator💰
 
 ---
 
